@@ -1,0 +1,15 @@
+{
+	"appname": "default access",
+	"scope": "",
+	"clientid": "6921A850-0D98-4D38-BEC3-251652F44422",
+	"buyerid": "BBB-1",
+	"catalogid": "BBB-1",
+	"environment": "production",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
